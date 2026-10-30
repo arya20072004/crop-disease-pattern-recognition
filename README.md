@@ -239,9 +239,14 @@ python scripts/generate_all_figures.py
 
 This case study was prepared for the Pattern Recognition CCA 1 Case Study evaluation by:
 
-- **Student Author 1** — Classical Feature Engineering & Linear SVM Implementation
-- **Student Author 2** — Random Forest Optimization & Feature Importance Analysis
-- **Student Author 3** — Deep CNN Benchmarking & PlantDoc Generalization Audit
-- **Student Author 4** — Computational Latency Harness & Empirical Comparative Synthesis
+- **Arya Sandeep Borhade**
+- **Suyash Sunam**
+- **Abhir Bengali**
+
+**Project Contributions:**
+- Classical Feature Engineering & Linear SVM Implementation
+- Random Forest Optimization & Feature Importance Analysis
+- Deep CNN Benchmarking & PlantDoc Generalization Audit
+- Computational Latency Harness & Empirical Comparative Synthesis
 
 *Course Evaluation: Pattern Recognition CCA 1 Case Study (Academic Year 2025–2026).*
