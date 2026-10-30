@@ -123,7 +123,7 @@ All figures are located in [`figures/`](figures/) in both 300 DPI PNG and vector
 
 ### Graph 3: Random Forest Feature Importance Analysis
 ![Graph 3: Feature Importance](figures/feature_importance/graph3_random_forest_feature_importance.png)
-*Left: Aggregate contribution (HSV 19.8% vs HOG 80.2%) vs. Feature Efficiency (HSV is **20.8x more influential** per feature). Right: Top 20 individual features are **100% HSV color dimensions**.*
+*Left: Aggregate Gini importance (HOG 80.22% across 8,100 dimensions vs. HSV 19.78% across 96 dimensions) alongside mean feature importance per dimension (mean HSV importance is ~20.8× higher than mean HOG importance). Right: The top 20 individual features ranked by Gini importance are all HSV colour dimensions. Note: Impurity-based (MDI) importance reflects decision tree split frequency within the handcrafted representation and has documented biases toward continuous features; it measures split utility rather than isolated causal relevance.*
 
 ---
 
@@ -141,7 +141,7 @@ All figures are located in [`figures/`](figures/) in both 300 DPI PNG and vector
 
 ### Graph 6: CNN Visual Model Interpretation Using Grad-CAM
 ![Graph 6: Grad-CAM](figures/gradcam/graph6_cnn_gradcam_visualizations.png)
-*Top Row: In-Domain diagnostic success on PlantVillage (accurate lesion localization, 86.9% conf). Bottom Row: Out-of-Domain failure mode on field imagery (background soil shortcut learning, 50.7% conf), explaining real-world domain collapse.*
+*Top Row: In-Domain diagnostic evaluation on PlantVillage exhibiting localized activation on foliar lesions (86.9% confidence). Bottom Row: Out-of-Domain diagnostic evaluation on PlantDoc field imagery displaying diffuse activation patterns with saliency spanning background soil and non-foliar context (50.7% confidence). While these qualitative visualizations suggest possible sensitivity to background context, Grad-CAM heatmaps do not independently establish shortcut learning or prove the definitive cause of domain generalization failure.*
 
 ---
 
@@ -167,7 +167,7 @@ Measured on Intel Core i5-13450HX CPU (10 worker threads) and NVIDIA RTX 4050 La
 
 1. **Incomplete Real-World Baseline:** Field evaluation on PlantDoc was conducted strictly for CNN v1 ($32.88\%$ accuracy). Prediction records for Linear SVM and Random Forest on PlantDoc do not exist; speculative scores are not claimed.
 2. **CNN v2 Disqualification:** CNN v2 (`best_model_v2.pth`) was exposed to PlantDoc test imagery during incremental fine-tuning and is disqualified from zero-shot field evaluation.
-3. **Background Shortcut Learning:** Controlled laboratory backgrounds in PlantVillage permit deep CNNs to learn background and illumination shortcuts, driving a **66.6% accuracy drop** under field conditions.
+3. **Observed Domain Shift Performance Gap:** CNN v1 validation accuracy of 99.51% on PlantVillage dropped to 32.88% on the unexposed PlantDoc field benchmark, an empirical difference of 66.63 percentage points. While factors such as background complexity, variable illumination, clutter, and contextual feature sensitivity are plausible hypotheses, the exact causal drivers of this generalization failure have not been experimentally isolated.
 4. **Hardware Telemetry:** Absolute latencies reflect an Intel 13th Gen mobile processor. While intra-iteration arithmetic holds universally, absolute timings will vary on low-power ARM architectures.
 
 ---
@@ -210,7 +210,7 @@ crop-disease-pattern-recognition/
 ### 9.1 Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/placeholder-group/crop-disease-pattern-recognition.git
+git clone https://github.com/arya20072004/crop-disease-pattern-recognition.git
 cd crop-disease-pattern-recognition
 
 # Create virtual environment
