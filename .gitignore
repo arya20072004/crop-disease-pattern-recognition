@@ -1,0 +1,80 @@
+# ==============================================================================
+# Git Ignore Configuration: Crop Disease Pattern Recognition Case Study
+# ==============================================================================
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+env/
+myenv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# IDE & Editor Artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.gemini/
+.antigravity/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Large Model Checkpoints & Serialized Weights (> 100 MB / Excluded from Git)
+# Checkpoints are documented in models/README.md with SHA-256 digests
+models/weights/*.pth
+models/weights/*.joblib
+models/weights/*.pkl
+*.pth
+*.joblib
+*.pkl
+
+# Raw Image Datasets (> 2 GB / Excluded from Git)
+# Dataset manifests are tracked in data/manifests/
+data/raw/
+data/plantvillage/
+data/plantdoc/
+archive/
+
+# Temporary and Scratch Directories
+scratch/
+tmp/
+temp/
+*.log
+
+# Explicitly ensure required graphical figures are tracked
+!figures/**/*.png
+!figures/**/*.svg

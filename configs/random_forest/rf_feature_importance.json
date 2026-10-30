@@ -1,0 +1,153 @@
+{
+  "hsv_sum_importance": 0.19782890189575245,
+  "hog_sum_importance": 0.8021710981042476,
+  "hsv_percentage": 19.782890189575244,
+  "hog_percentage": 80.21710981042476,
+  "hsv_mean_importance": 0.0020607177280807546,
+  "hog_mean_importance": 9.903346890175896e-05,
+  "hsv_feature_count": 96,
+  "hog_feature_count": 8100,
+  "top_20_features": [
+    {
+      "rank": 1,
+      "global_index": 3,
+      "modality": "HSV_Colour",
+      "modality_index": 3,
+      "importance": 0.004592283842316971
+    },
+    {
+      "rank": 2,
+      "global_index": 2,
+      "modality": "HSV_Colour",
+      "modality_index": 2,
+      "importance": 0.004078400007238804
+    },
+    {
+      "rank": 3,
+      "global_index": 1,
+      "modality": "HSV_Colour",
+      "modality_index": 1,
+      "importance": 0.003935763889224532
+    },
+    {
+      "rank": 4,
+      "global_index": 5,
+      "modality": "HSV_Colour",
+      "modality_index": 5,
+      "importance": 0.003806080161766621
+    },
+    {
+      "rank": 5,
+      "global_index": 0,
+      "modality": "HSV_Colour",
+      "modality_index": 0,
+      "importance": 0.0037790452576042283
+    },
+    {
+      "rank": 6,
+      "global_index": 4,
+      "modality": "HSV_Colour",
+      "modality_index": 4,
+      "importance": 0.0037155816203881162
+    },
+    {
+      "rank": 7,
+      "global_index": 31,
+      "modality": "HSV_Colour",
+      "modality_index": 31,
+      "importance": 0.003551353968302179
+    },
+    {
+      "rank": 8,
+      "global_index": 64,
+      "modality": "HSV_Colour",
+      "modality_index": 64,
+      "importance": 0.003362710179602434
+    },
+    {
+      "rank": 9,
+      "global_index": 6,
+      "modality": "HSV_Colour",
+      "modality_index": 6,
+      "importance": 0.003300739374754223
+    },
+    {
+      "rank": 10,
+      "global_index": 30,
+      "modality": "HSV_Colour",
+      "modality_index": 30,
+      "importance": 0.0031823368402835615
+    },
+    {
+      "rank": 11,
+      "global_index": 33,
+      "modality": "HSV_Colour",
+      "modality_index": 33,
+      "importance": 0.0028281268626930687
+    },
+    {
+      "rank": 12,
+      "global_index": 25,
+      "modality": "HSV_Colour",
+      "modality_index": 25,
+      "importance": 0.0024855099026535074
+    },
+    {
+      "rank": 13,
+      "global_index": 8,
+      "modality": "HSV_Colour",
+      "modality_index": 8,
+      "importance": 0.002473132842272867
+    },
+    {
+      "rank": 14,
+      "global_index": 94,
+      "modality": "HSV_Colour",
+      "modality_index": 94,
+      "importance": 0.0024575800590172204
+    },
+    {
+      "rank": 15,
+      "global_index": 32,
+      "modality": "HSV_Colour",
+      "modality_index": 32,
+      "importance": 0.0024572911794007836
+    },
+    {
+      "rank": 16,
+      "global_index": 66,
+      "modality": "HSV_Colour",
+      "modality_index": 66,
+      "importance": 0.0024229398716828793
+    },
+    {
+      "rank": 17,
+      "global_index": 95,
+      "modality": "HSV_Colour",
+      "modality_index": 95,
+      "importance": 0.00237307512353123
+    },
+    {
+      "rank": 18,
+      "global_index": 21,
+      "modality": "HSV_Colour",
+      "modality_index": 21,
+      "importance": 0.002360362315618301
+    },
+    {
+      "rank": 19,
+      "global_index": 9,
+      "modality": "HSV_Colour",
+      "modality_index": 9,
+      "importance": 0.002334810658308302
+    },
+    {
+      "rank": 20,
+      "global_index": 90,
+      "modality": "HSV_Colour",
+      "modality_index": 90,
+      "importance": 0.002333846539231297
+    }
+  ],
+  "methodology_note": "Feature importances are Gini-importance (mean decrease in impurity) values. They do not establish causal relevance or directly correspond to localized visual regions."
+}

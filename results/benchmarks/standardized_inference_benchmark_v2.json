@@ -1,0 +1,356 @@
+{
+  "protocol_name": "Corrected_Paired_Inference_and_Resource_Benchmark_v2",
+  "version": "2.0",
+  "date": "2026-10-30 21:01:22",
+  "total_benchmark_runtime_sec": 103.96,
+  "system_telemetry": {
+    "cpu_name": "13th Gen Intel(R) Core(TM) i5-13450HX",
+    "cpu_logical_cores": 16,
+    "cpu_pytorch_threads": 10,
+    "ram_total_gb": 16.0,
+    "os": "Windows 11 Home (AMD64)",
+    "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "gpu_vram_gb": 6.0,
+    "cuda_available": true,
+    "torch_version": "2.5.1+cu124",
+    "python_version": "3.12.9",
+    "input_pipeline_documentation": "Full Pipeline timing begins with an in-memory decoded RGB image, simulating realistic API request payload receipt or camera capture. Disk file I/O is excluded to measure pure computational latency."
+  },
+  "comparative_audit": {
+    "historical_phase2b_svm_ms": 0.053,
+    "historical_phase2b_method": "Model-only predict on pre-computed in-memory validation array (N=8146) divided by 8146",
+    "historical_phase3_rf_ms": 0.31,
+    "historical_phase3_method": "Model-only predict on pre-computed in-memory validation array (N=8146) divided by 8146 with n_jobs=-1",
+    "phase4c_v1_limitation": "Phase 4C v1 measured full-pipeline and model-only in two separate sequential loops, allowing Intel mobile PL2-to-PL1 power throttling and Joblib thread contention to invert comparative timings between measurement blocks.",
+    "phase4c_v2_correction": "Phase 4C v2 enforces strict paired intra-iteration timing: t0 -> preprocess -> t1 -> predict -> t2. End-to-end latency strictly equals preprocessing plus model-only latency on every iteration."
+  },
+  "cpu_benchmarks": {
+    "linear_svm": {
+      "model_name": "Linear_SVM_SGD",
+      "device": "CPU",
+      "storage_size_mb": 1.38,
+      "loading_time_sec": 0.3157,
+      "single_image": {
+        "num_iterations": 30,
+        "preprocessing": {
+          "mean_ms": 2.77,
+          "median_ms": 2.634,
+          "std_ms": 0.427,
+          "min_ms": 1.76,
+          "max_ms": 3.761,
+          "p95_ms": 3.521,
+          "throughput_img_per_sec": 361.03
+        },
+        "model_only": {
+          "mean_ms": 0.402,
+          "median_ms": 0.367,
+          "std_ms": 0.105,
+          "min_ms": 0.239,
+          "max_ms": 0.664,
+          "p95_ms": 0.626,
+          "throughput_img_per_sec": 2486.98
+        },
+        "end_to_end": {
+          "mean_ms": 3.172,
+          "median_ms": 3.041,
+          "std_ms": 0.476,
+          "min_ms": 1.999,
+          "max_ms": 4.244,
+          "p95_ms": 4.029,
+          "throughput_img_per_sec": 315.26
+        }
+      },
+      "batch_32": {
+        "batch_size": 32,
+        "num_batches": 5,
+        "preprocessing_batch": {
+          "mean_ms": 83.138,
+          "median_ms": 88.99,
+          "std_ms": 7.453,
+          "min_ms": 72.125,
+          "max_ms": 89.287,
+          "p95_ms": 89.254,
+          "throughput_img_per_sec": 384.9
+        },
+        "model_only_batch": {
+          "mean_ms": 2.342,
+          "median_ms": 2.305,
+          "std_ms": 0.472,
+          "min_ms": 1.746,
+          "max_ms": 3.191,
+          "p95_ms": 3.015,
+          "throughput_img_per_sec": 13661.79
+        },
+        "end_to_end_batch": {
+          "mean_ms": 85.481,
+          "median_ms": 91.034,
+          "std_ms": 7.135,
+          "min_ms": 75.317,
+          "max_ms": 91.427,
+          "p95_ms": 91.402,
+          "throughput_img_per_sec": 374.35
+        },
+        "per_image_mean_ms": {
+          "preprocessing": 2.598,
+          "model_only": 0.073,
+          "end_to_end": 2.671
+        }
+      }
+    },
+    "random_forest_rf2": {
+      "model_name": "Random_Forest_RF-2",
+      "device": "CPU",
+      "storage_size_mb": 489.28,
+      "loading_time_sec": 2.4677,
+      "single_image_production": {
+        "execution_configuration": "n_jobs=1 (single-core production standard)",
+        "num_iterations": 30,
+        "preprocessing": {
+          "mean_ms": 2.669,
+          "median_ms": 2.178,
+          "std_ms": 1.032,
+          "min_ms": 1.455,
+          "max_ms": 5.216,
+          "p95_ms": 4.508,
+          "throughput_img_per_sec": 374.65
+        },
+        "model_only": {
+          "mean_ms": 72.494,
+          "median_ms": 66.056,
+          "std_ms": 36.9,
+          "min_ms": 49.873,
+          "max_ms": 261.862,
+          "p95_ms": 88.943,
+          "throughput_img_per_sec": 13.79
+        },
+        "end_to_end": {
+          "mean_ms": 75.163,
+          "median_ms": 68.743,
+          "std_ms": 36.76,
+          "min_ms": 52.349,
+          "max_ms": 263.64,
+          "p95_ms": 91.217,
+          "throughput_img_per_sec": 13.3
+        }
+      },
+      "single_image_multicore_diagnostic": {
+        "execution_configuration": "n_jobs=-1 (multi-core dispatch overhead demonstration)",
+        "num_iterations": 15,
+        "preprocessing": {
+          "mean_ms": 4.272,
+          "median_ms": 4.424,
+          "std_ms": 1.344,
+          "min_ms": 2.278,
+          "max_ms": 6.202,
+          "p95_ms": 6.041,
+          "throughput_img_per_sec": 234.1
+        },
+        "model_only": {
+          "mean_ms": 152.596,
+          "median_ms": 146.338,
+          "std_ms": 56.091,
+          "min_ms": 98.998,
+          "max_ms": 346.362,
+          "p95_ms": 225.349,
+          "throughput_img_per_sec": 6.55
+        },
+        "end_to_end": {
+          "mean_ms": 156.868,
+          "median_ms": 152.311,
+          "std_ms": 56.128,
+          "min_ms": 101.442,
+          "max_ms": 349.937,
+          "p95_ms": 228.077,
+          "throughput_img_per_sec": 6.37
+        }
+      },
+      "batch_32": {
+        "execution_configuration": "n_jobs=-1 (accepted multi-threaded batch configuration)",
+        "batch_size": 32,
+        "num_batches": 5,
+        "preprocessing_batch": {
+          "mean_ms": 108.966,
+          "median_ms": 84.197,
+          "std_ms": 43.962,
+          "min_ms": 70.399,
+          "max_ms": 191.92,
+          "p95_ms": 176.493,
+          "throughput_img_per_sec": 293.67
+        },
+        "model_only_batch": {
+          "mean_ms": 179.613,
+          "median_ms": 178.203,
+          "std_ms": 11.929,
+          "min_ms": 163.06,
+          "max_ms": 197.983,
+          "p95_ms": 195.668,
+          "throughput_img_per_sec": 178.16
+        },
+        "end_to_end_batch": {
+          "mean_ms": 288.579,
+          "median_ms": 281.512,
+          "std_ms": 35.727,
+          "min_ms": 248.602,
+          "max_ms": 354.98,
+          "p95_ms": 341.424,
+          "throughput_img_per_sec": 110.89
+        },
+        "per_image_mean_ms": {
+          "preprocessing": 3.405,
+          "model_only": 5.613,
+          "end_to_end": 9.018
+        }
+      }
+    },
+    "efficientnet_b4_cnn_v1": {
+      "model_name": "EfficientNet-B4_CNN_v1",
+      "device": "CPU",
+      "storage_size_mb": 71.24,
+      "loading_time_sec": 1.2516,
+      "single_image": {
+        "num_iterations": 20,
+        "preprocessing": {
+          "mean_ms": 13.075,
+          "median_ms": 12.035,
+          "std_ms": 4.439,
+          "min_ms": 9.042,
+          "max_ms": 31.303,
+          "p95_ms": 16.072,
+          "throughput_img_per_sec": 76.48
+        },
+        "model_only": {
+          "mean_ms": 760.233,
+          "median_ms": 728.814,
+          "std_ms": 85.2,
+          "min_ms": 664.748,
+          "max_ms": 951.62,
+          "p95_ms": 936.916,
+          "throughput_img_per_sec": 1.32
+        },
+        "end_to_end": {
+          "mean_ms": 773.307,
+          "median_ms": 739.792,
+          "std_ms": 85.973,
+          "min_ms": 673.79,
+          "max_ms": 966.89,
+          "p95_ms": 949.047,
+          "throughput_img_per_sec": 1.29
+        }
+      },
+      "batch_32": {
+        "batch_size": 32,
+        "num_batches": 4,
+        "inter_batch_cooldown_sec": 1.0,
+        "preprocessing_batch": {
+          "mean_ms": 427.903,
+          "median_ms": 394.785,
+          "std_ms": 81.482,
+          "min_ms": 359.706,
+          "max_ms": 562.335,
+          "p95_ms": 541.499,
+          "throughput_img_per_sec": 74.78
+        },
+        "model_only_batch": {
+          "mean_ms": 10560.081,
+          "median_ms": 9571.766,
+          "std_ms": 1798.111,
+          "min_ms": 9424.281,
+          "max_ms": 13672.51,
+          "p95_ms": 13062.164,
+          "throughput_img_per_sec": 3.03
+        },
+        "end_to_end_batch": {
+          "mean_ms": 10987.983,
+          "median_ms": 10036.003,
+          "std_ms": 1799.671,
+          "min_ms": 9783.988,
+          "max_ms": 14095.94,
+          "p95_ms": 13506.429,
+          "throughput_img_per_sec": 2.91
+        },
+        "per_image_mean_ms": {
+          "preprocessing": 13.372,
+          "model_only": 330.003,
+          "end_to_end": 343.374
+        }
+      }
+    }
+  },
+  "supplementary_gpu_benchmark": {
+    "model_name": "EfficientNet-B4_CNN_v1",
+    "device": "GPU (NVIDIA GeForce RTX 4050 Laptop GPU)",
+    "benchmark_classification": "Supplementary (Not directly comparable to CPU-only classical models)",
+    "storage_size_mb": 71.24,
+    "loading_time_sec": 1.4812,
+    "gpu_telemetry": {
+      "vram_allocated_mb": 135.13,
+      "vram_reserved_mb": 2152.0
+    },
+    "single_image": {
+      "num_iterations": 30,
+      "preprocessing": {
+        "mean_ms": 12.667,
+        "median_ms": 12.245,
+        "std_ms": 2.421,
+        "min_ms": 9.015,
+        "max_ms": 20.137,
+        "p95_ms": 17.486,
+        "throughput_img_per_sec": 78.94
+      },
+      "model_only": {
+        "mean_ms": 84.372,
+        "median_ms": 83.615,
+        "std_ms": 11.459,
+        "min_ms": 62.016,
+        "max_ms": 106.97,
+        "p95_ms": 104.096,
+        "throughput_img_per_sec": 11.85
+      },
+      "end_to_end": {
+        "mean_ms": 97.04,
+        "median_ms": 96.446,
+        "std_ms": 12.758,
+        "min_ms": 73.498,
+        "max_ms": 127.107,
+        "p95_ms": 120.378,
+        "throughput_img_per_sec": 10.31
+      }
+    },
+    "batch_32": {
+      "batch_size": 32,
+      "num_batches": 5,
+      "preprocessing_batch": {
+        "mean_ms": 410.004,
+        "median_ms": 408.113,
+        "std_ms": 23.193,
+        "min_ms": 387.021,
+        "max_ms": 453.026,
+        "p95_ms": 444.293,
+        "throughput_img_per_sec": 78.05
+      },
+      "model_only_batch": {
+        "mean_ms": 283.0,
+        "median_ms": 280.961,
+        "std_ms": 4.926,
+        "min_ms": 276.325,
+        "max_ms": 289.119,
+        "p95_ms": 288.953,
+        "throughput_img_per_sec": 113.07
+      },
+      "end_to_end_batch": {
+        "mean_ms": 693.004,
+        "median_ms": 689.667,
+        "std_ms": 26.923,
+        "min_ms": 663.346,
+        "max_ms": 741.313,
+        "p95_ms": 732.497,
+        "throughput_img_per_sec": 46.18
+      },
+      "per_image_mean_ms": {
+        "preprocessing": 12.813,
+        "model_only": 8.844,
+        "end_to_end": 21.656
+      }
+    }
+  }
+}

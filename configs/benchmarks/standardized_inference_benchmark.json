@@ -1,0 +1,213 @@
+{
+  "protocol_name": "Standardized_Inference_and_Resource_Benchmark",
+  "date": "2026-10-30 20:23:19",
+  "hardware_environment": {
+    "cpu_name": "13th Gen Intel(R) Core(TM) i5-13450HX",
+    "cpu_logical_cores": 16,
+    "ram_total_gb": 16.0,
+    "os": "Windows 11 Home (AMD64)",
+    "gpu_name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "gpu_vram_gb": 6.0,
+    "cuda_available": true,
+    "torch_version": "2.5.1+cu124",
+    "python_version": "3.12.9"
+  },
+  "historical_measurements_audit": {
+    "phase2b_linear_svm_reported_latency_ms": 0.053,
+    "phase2b_methodology": "Model-only predict on pre-computed in-memory numpy array (batch mean)",
+    "phase3_random_forest_reported_latency_ms": 0.31,
+    "phase3_methodology": "Model-only predict on pre-computed in-memory numpy array (batch mean)",
+    "audit_finding": "Previous Phase 2B and Phase 3 latency measurements excluded image I/O, resizing, and handcrafted feature extraction (HSV + HOG). The standardized benchmark accounts for both full end-to-end pipeline and isolated model-only computation."
+  },
+  "cpu_benchmarks": {
+    "linear_svm": {
+      "model_name": "Linear_SVM_SGD",
+      "device": "CPU",
+      "storage_size_mb": 1.38,
+      "loading_time_sec": 0.1693,
+      "single_image": {
+        "full_pipeline": {
+          "mean_ms": 0.994,
+          "median_ms": 0.888,
+          "std_ms": 0.328,
+          "min_ms": 0.726,
+          "max_ms": 2.401,
+          "p95_ms": 1.637,
+          "throughput_img_per_sec": 1005.89
+        },
+        "model_only": {
+          "mean_ms": 0.134,
+          "median_ms": 0.101,
+          "std_ms": 0.071,
+          "min_ms": 0.085,
+          "max_ms": 0.447,
+          "p95_ms": 0.247,
+          "throughput_img_per_sec": 7474.62
+        }
+      },
+      "batch_32": {
+        "batch_size": 32,
+        "full_pipeline": {
+          "mean_ms": 24.571,
+          "median_ms": 23.654,
+          "std_ms": 4.087,
+          "min_ms": 19.819,
+          "max_ms": 38.347,
+          "p95_ms": 31.732,
+          "throughput_img_per_sec": 1302.37
+        },
+        "model_only": {
+          "mean_ms": 0.88,
+          "median_ms": 0.796,
+          "std_ms": 0.25,
+          "min_ms": 0.609,
+          "max_ms": 1.553,
+          "p95_ms": 1.25,
+          "throughput_img_per_sec": 36369.42
+        }
+      }
+    },
+    "random_forest_rf2": {
+      "model_name": "Random_Forest_RF-2",
+      "device": "CPU",
+      "storage_size_mb": 489.28,
+      "loading_time_sec": 0.8769,
+      "single_image": {
+        "full_pipeline": {
+          "mean_ms": 70.521,
+          "median_ms": 69.072,
+          "std_ms": 12.561,
+          "min_ms": 54.879,
+          "max_ms": 118.46,
+          "p95_ms": 90.527,
+          "throughput_img_per_sec": 14.18
+        },
+        "model_only": {
+          "mean_ms": 173.029,
+          "median_ms": 149.055,
+          "std_ms": 71.764,
+          "min_ms": 119.879,
+          "max_ms": 525.349,
+          "p95_ms": 333.811,
+          "throughput_img_per_sec": 5.78
+        }
+      },
+      "batch_32": {
+        "batch_size": 32,
+        "full_pipeline": {
+          "mean_ms": 277.006,
+          "median_ms": 258.156,
+          "std_ms": 87.248,
+          "min_ms": 219.73,
+          "max_ms": 608.185,
+          "p95_ms": 439.417,
+          "throughput_img_per_sec": 115.52
+        },
+        "model_only": {
+          "mean_ms": 203.092,
+          "median_ms": 178.704,
+          "std_ms": 86.407,
+          "min_ms": 142.003,
+          "max_ms": 468.239,
+          "p95_ms": 446.37,
+          "throughput_img_per_sec": 157.56
+        }
+      }
+    },
+    "efficientnet_b4_cnn_v1": {
+      "model_name": "EfficientNet-B4_CNN_v1",
+      "device": "CPU",
+      "storage_size_mb": 71.24,
+      "loading_time_sec": 1.0251,
+      "single_image": {
+        "full_pipeline": {
+          "mean_ms": 621.314,
+          "median_ms": 711.078,
+          "std_ms": 336.284,
+          "min_ms": 167.094,
+          "max_ms": 1134.376,
+          "p95_ms": 1122.691,
+          "throughput_img_per_sec": 1.61
+        },
+        "model_only": {
+          "mean_ms": 175.264,
+          "median_ms": 175.501,
+          "std_ms": 12.633,
+          "min_ms": 154.476,
+          "max_ms": 208.837,
+          "p95_ms": 195.581,
+          "throughput_img_per_sec": 5.71
+        }
+      },
+      "batch_32": {
+        "batch_size": 32,
+        "full_pipeline": {
+          "mean_ms": 5831.019,
+          "median_ms": 3386.256,
+          "std_ms": 3612.697,
+          "min_ms": 2954.006,
+          "max_ms": 13770.878,
+          "p95_ms": 11991.88,
+          "throughput_img_per_sec": 5.49
+        },
+        "model_only": {
+          "mean_ms": 12299.638,
+          "median_ms": 11868.81,
+          "std_ms": 1220.008,
+          "min_ms": 11182.541,
+          "max_ms": 14641.94,
+          "p95_ms": 14573.43,
+          "throughput_img_per_sec": 2.6
+        }
+      }
+    }
+  },
+  "supplementary_gpu_benchmark": {
+    "model_name": "EfficientNet-B4_CNN_v1",
+    "device": "GPU (NVIDIA GeForce RTX 4050 Laptop GPU)",
+    "benchmark_classification": "Supplementary (Not directly comparable to CPU-only classical models)",
+    "storage_size_mb": 71.24,
+    "loading_time_sec": 1.5907,
+    "single_image": {
+      "full_pipeline": {
+        "mean_ms": 104.733,
+        "median_ms": 95.21,
+        "std_ms": 35.149,
+        "min_ms": 68.845,
+        "max_ms": 236.286,
+        "p95_ms": 193.837,
+        "throughput_img_per_sec": 9.55
+      },
+      "model_only": {
+        "mean_ms": 94.155,
+        "median_ms": 86.857,
+        "std_ms": 48.126,
+        "min_ms": 56.145,
+        "max_ms": 368.976,
+        "p95_ms": 131.421,
+        "throughput_img_per_sec": 10.62
+      }
+    },
+    "batch_32": {
+      "batch_size": 32,
+      "full_pipeline": {
+        "mean_ms": 659.134,
+        "median_ms": 654.922,
+        "std_ms": 114.277,
+        "min_ms": 429.529,
+        "max_ms": 971.201,
+        "p95_ms": 818.924,
+        "throughput_img_per_sec": 48.55
+      },
+      "model_only": {
+        "mean_ms": 277.725,
+        "median_ms": 278.412,
+        "std_ms": 5.803,
+        "min_ms": 265.763,
+        "max_ms": 286.739,
+        "p95_ms": 284.873,
+        "throughput_img_per_sec": 115.22
+      }
+    }
+  }
+}

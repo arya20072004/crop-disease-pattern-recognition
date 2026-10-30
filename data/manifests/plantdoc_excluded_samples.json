@@ -1,0 +1,104 @@
+[
+  {
+    "image_id": "Bell_pepper leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (1).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (2).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (3).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (4).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (5).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (6).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (7).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf/Bell_pepper leaf (8).jpg",
+    "original_class": "Bell_pepper leaf",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (1).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (2).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (3).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (4).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (5).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (6).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (7).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (8).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  },
+  {
+    "image_id": "Bell_pepper leaf spot (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Bell_pepper leaf spot/Bell_pepper leaf spot (9).jpg",
+    "original_class": "Bell_pepper leaf spot",
+    "exclusion_reason": "No direct equivalent class in PlantVillage taxonomy (unmapped class)"
+  }
+]

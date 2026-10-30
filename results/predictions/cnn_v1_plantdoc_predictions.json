@@ -1,0 +1,4163 @@
+[
+  {
+    "image_id": "Apple leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (1).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Pepper,_bell___Bacterial_spot",
+    "predicted_class_index": 18,
+    "confidence": 0.17690999805927277,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (2).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Peach___Bacterial_spot",
+    "predicted_class_index": 16,
+    "confidence": 0.24623923003673553,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (3).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.4370455741882324,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (4).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.5131585597991943,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (5).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.19850552082061768,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (6).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.3823440968990326,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (7).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Cherry_(including_sour)___healthy",
+    "predicted_class_index": 6,
+    "confidence": 0.3970138132572174,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (8).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.1535145342350006,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple leaf/Apple leaf (9).jpg",
+    "original_class": "Apple leaf",
+    "mapped_ground_truth_class": "Apple___healthy",
+    "mapped_ground_truth_index": 3,
+    "predicted_class_name": "Cherry_(including_sour)___healthy",
+    "predicted_class_index": 6,
+    "confidence": 0.5484620928764343,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (1).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.1741018295288086,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (10).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "predicted_class_index": 13,
+    "confidence": 0.20617210865020752,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (2).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Apple___Cedar_apple_rust",
+    "predicted_class_index": 2,
+    "confidence": 0.21381458640098572,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (3).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Apple___Black_rot",
+    "predicted_class_index": 1,
+    "confidence": 0.14268052577972412,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (4).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Grape___Esca_(Black_Measles)",
+    "predicted_class_index": 12,
+    "confidence": 0.1783646196126938,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (5).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "predicted_class_index": 13,
+    "confidence": 0.21755735576152802,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (6).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Cherry_(including_sour)___healthy",
+    "predicted_class_index": 6,
+    "confidence": 0.12124832719564438,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (7).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Apple___Black_rot",
+    "predicted_class_index": 1,
+    "confidence": 0.162840336561203,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (8).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Apple___Cedar_apple_rust",
+    "predicted_class_index": 2,
+    "confidence": 0.17250943183898926,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple rust leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple rust leaf/Apple rust leaf (9).jpg",
+    "original_class": "Apple rust leaf",
+    "mapped_ground_truth_class": "Apple___Cedar_apple_rust",
+    "mapped_ground_truth_index": 2,
+    "predicted_class_name": "Apple___Black_rot",
+    "predicted_class_index": 1,
+    "confidence": 0.1822052150964737,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (1).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.30746328830718994,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (10).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.5803184509277344,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (2).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Pepper,_bell___Bacterial_spot",
+    "predicted_class_index": 18,
+    "confidence": 0.18433071672916412,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (3).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Apple___Apple_scab",
+    "predicted_class_index": 0,
+    "confidence": 0.20167599618434906,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (4).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Apple___Apple_scab",
+    "predicted_class_index": 0,
+    "confidence": 0.12554213404655457,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (5).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.11745705455541611,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (6).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Potato___Early_blight",
+    "predicted_class_index": 20,
+    "confidence": 0.2014085054397583,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (7).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.3580087423324585,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (8).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.1779693216085434,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Apple Scab Leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Apple Scab Leaf/Apple Scab Leaf (9).jpg",
+    "original_class": "Apple Scab Leaf",
+    "mapped_ground_truth_class": "Apple___Apple_scab",
+    "mapped_ground_truth_index": 0,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.3382158875465393,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (1).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "predicted_class_index": 15,
+    "confidence": 0.15765146911144257,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (10).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "predicted_class_index": 15,
+    "confidence": 0.22687125205993652,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (11).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (11).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Pepper,_bell___Bacterial_spot",
+    "predicted_class_index": 18,
+    "confidence": 0.1672172099351883,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (2).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.517579972743988,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (3).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.1813841313123703,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (4).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.19182007014751434,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (5).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.2710196077823639,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (6).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Cherry_(including_sour)___healthy",
+    "predicted_class_index": 6,
+    "confidence": 0.22830858826637268,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (7).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.7049851417541504,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (8).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.33986008167266846,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Blueberry leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (9).jpg",
+    "original_class": "Blueberry leaf",
+    "mapped_ground_truth_class": "Blueberry___healthy",
+    "mapped_ground_truth_index": 4,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.8164799213409424,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (1).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.3688562214374542,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (10).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.2541796863079071,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (2).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.31771931052207947,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (3).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.24414502084255219,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (4).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.2805871367454529,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (5).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.06627626717090607,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (6).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Cherry_(including_sour)___healthy",
+    "predicted_class_index": 6,
+    "confidence": 0.19256193935871124,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (7).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Peach___Bacterial_spot",
+    "predicted_class_index": 16,
+    "confidence": 0.1847350001335144,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (8).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Apple___Apple_scab",
+    "predicted_class_index": 0,
+    "confidence": 0.16749300062656403,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Cherry leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Cherry leaf/Cherry leaf (9).jpg",
+    "original_class": "Cherry leaf",
+    "mapped_ground_truth_class": "Cherry_(including_sour)___healthy",
+    "mapped_ground_truth_index": 6,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.24375860393047333,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn Gray leaf spot (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn Gray leaf spot/Corn Gray leaf spot (1).jpg",
+    "original_class": "Corn Gray leaf spot",
+    "mapped_ground_truth_class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "mapped_ground_truth_index": 7,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.3282809257507324,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Corn Gray leaf spot (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn Gray leaf spot/Corn Gray leaf spot (2).jpg",
+    "original_class": "Corn Gray leaf spot",
+    "mapped_ground_truth_class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "mapped_ground_truth_index": 7,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.662734866142273,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn Gray leaf spot (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn Gray leaf spot/Corn Gray leaf spot (3).jpg",
+    "original_class": "Corn Gray leaf spot",
+    "mapped_ground_truth_class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "mapped_ground_truth_index": 7,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.22360378503799438,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn Gray leaf spot (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn Gray leaf spot/Corn Gray leaf spot (4).jpg",
+    "original_class": "Corn Gray leaf spot",
+    "mapped_ground_truth_class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "mapped_ground_truth_index": 7,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.9236165881156921,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (1).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.3632398247718811,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (10).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.9596289396286011,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (11).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (11).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.5186974406242371,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (12).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (12).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.8900553584098816,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (2).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.25150710344314575,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (3).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.6129681468009949,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (4).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.8197773694992065,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (5).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.795045018196106,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (6).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.364111989736557,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (7).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.4784429967403412,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (8).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.7141405344009399,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn leaf blight (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (9).jpg",
+    "original_class": "Corn leaf blight",
+    "mapped_ground_truth_class": "Corn_(maize)___Northern_Leaf_Blight",
+    "mapped_ground_truth_index": 9,
+    "predicted_class_name": "Corn_(maize)___healthy",
+    "predicted_class_index": 10,
+    "confidence": 0.33313608169555664,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (1).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.744825005531311,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (10).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___healthy",
+    "predicted_class_index": 10,
+    "confidence": 0.5428072810173035,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (2).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.3467504680156708,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (3).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___healthy",
+    "predicted_class_index": 10,
+    "confidence": 0.7719034552574158,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (4).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___healthy",
+    "predicted_class_index": 10,
+    "confidence": 0.2600301206111908,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (5).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___Common_rust_",
+    "predicted_class_index": 8,
+    "confidence": 0.27783024311065674,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (6).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "predicted_class_index": 9,
+    "confidence": 0.12080642580986023,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (7).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.3234141767024994,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (8).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___healthy",
+    "predicted_class_index": 10,
+    "confidence": 0.2675139605998993,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Corn rust leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn rust leaf/Corn rust leaf (9).jpg",
+    "original_class": "Corn rust leaf",
+    "mapped_ground_truth_class": "Corn_(maize)___Common_rust_",
+    "mapped_ground_truth_index": 8,
+    "predicted_class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "predicted_class_index": 7,
+    "confidence": 0.6518888473510742,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (1).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.47541046142578125,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (10).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.22900407016277313,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (11).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (11).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "predicted_class_index": 13,
+    "confidence": 0.13046438992023468,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (12).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (12).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.197819322347641,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (2).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.4932309687137604,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (3).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.2295517772436142,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (4).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.6425793766975403,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (5).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "predicted_class_index": 15,
+    "confidence": 0.14716199040412903,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (6).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.5028801560401917,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (7).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.5646118521690369,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (8).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.25169697403907776,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf/grape leaf (9).jpg",
+    "original_class": "grape leaf",
+    "mapped_ground_truth_class": "Grape___healthy",
+    "mapped_ground_truth_index": 14,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.3000427782535553,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (1).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.4338186979293823,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (2).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.599525511264801,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (3).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.2339758276939392,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (4).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.5037495493888855,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (5).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.2755398452281952,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (6).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Esca_(Black_Measles)",
+    "predicted_class_index": 12,
+    "confidence": 0.18309471011161804,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (7).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Esca_(Black_Measles)",
+    "predicted_class_index": 12,
+    "confidence": 0.29030853509902954,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "grape leaf black rot (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/grape leaf black rot/grape leaf black rot (8).jpg",
+    "original_class": "grape leaf black rot",
+    "mapped_ground_truth_class": "Grape___Black_rot",
+    "mapped_ground_truth_index": 11,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.29446735978126526,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (1).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Apple___healthy",
+    "predicted_class_index": 3,
+    "confidence": 0.19304554164409637,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (2).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Peach___healthy",
+    "predicted_class_index": 17,
+    "confidence": 0.3616797626018524,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (3).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Peach___healthy",
+    "predicted_class_index": 17,
+    "confidence": 0.539408802986145,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (4).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.18801981210708618,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (5).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.3519367575645447,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (6).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.3703116774559021,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (7).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.12403382360935211,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (8).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Peach___Bacterial_spot",
+    "predicted_class_index": 16,
+    "confidence": 0.17898383736610413,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Peach leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Peach leaf/Peach leaf (9).jpg",
+    "original_class": "Peach leaf",
+    "mapped_ground_truth_class": "Peach___healthy",
+    "mapped_ground_truth_index": 17,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.16916011273860931,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (1).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.17225824296474457,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (2).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Potato___Early_blight",
+    "predicted_class_index": 20,
+    "confidence": 0.11103170365095139,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (3).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.33959272503852844,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (4).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.4825150966644287,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (5).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Potato___Early_blight",
+    "predicted_class_index": 20,
+    "confidence": 0.40914079546928406,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (6).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.09880747646093369,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (7).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Potato___Late_blight",
+    "predicted_class_index": 21,
+    "confidence": 0.15200111269950867,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf early blight (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (8).jpg",
+    "original_class": "Potato leaf early blight",
+    "mapped_ground_truth_class": "Potato___Early_blight",
+    "mapped_ground_truth_index": 20,
+    "predicted_class_name": "Potato___Early_blight",
+    "predicted_class_index": 20,
+    "confidence": 0.5801517367362976,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (1).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Potato___Early_blight",
+    "predicted_class_index": 20,
+    "confidence": 0.2336723953485489,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (2).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.7012165784835815,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (3).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.33525577187538147,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (4).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.5539709329605103,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (5).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Pepper,_bell___Bacterial_spot",
+    "predicted_class_index": 18,
+    "confidence": 0.39654603600502014,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (6).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.3929094672203064,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (7).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.08137823641300201,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Potato leaf late blight (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (8).jpg",
+    "original_class": "Potato leaf late blight",
+    "mapped_ground_truth_class": "Potato___Late_blight",
+    "mapped_ground_truth_index": 21,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.6011762022972107,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Raspberry leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Raspberry leaf/Raspberry leaf (1).jpg",
+    "original_class": "Raspberry leaf",
+    "mapped_ground_truth_class": "Raspberry___healthy",
+    "mapped_ground_truth_index": 23,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.5149549841880798,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Raspberry leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Raspberry leaf/Raspberry leaf (2).jpg",
+    "original_class": "Raspberry leaf",
+    "mapped_ground_truth_class": "Raspberry___healthy",
+    "mapped_ground_truth_index": 23,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.1914701610803604,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Raspberry leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Raspberry leaf/Raspberry leaf (3).jpg",
+    "original_class": "Raspberry leaf",
+    "mapped_ground_truth_class": "Raspberry___healthy",
+    "mapped_ground_truth_index": 23,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.312719464302063,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Raspberry leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Raspberry leaf/Raspberry leaf (4).jpg",
+    "original_class": "Raspberry leaf",
+    "mapped_ground_truth_class": "Raspberry___healthy",
+    "mapped_ground_truth_index": 23,
+    "predicted_class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "predicted_class_index": 35,
+    "confidence": 0.26651450991630554,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Raspberry leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Raspberry leaf/Raspberry leaf (5).jpg",
+    "original_class": "Raspberry leaf",
+    "mapped_ground_truth_class": "Raspberry___healthy",
+    "mapped_ground_truth_index": 23,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.5384377241134644,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Raspberry leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Raspberry leaf/Raspberry leaf (6).jpg",
+    "original_class": "Raspberry leaf",
+    "mapped_ground_truth_class": "Raspberry___healthy",
+    "mapped_ground_truth_index": 23,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.461357444524765,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Raspberry leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Raspberry leaf/Raspberry leaf (7).jpg",
+    "original_class": "Raspberry leaf",
+    "mapped_ground_truth_class": "Raspberry___healthy",
+    "mapped_ground_truth_index": 23,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.2558458149433136,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (1).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Peach___Bacterial_spot",
+    "predicted_class_index": 16,
+    "confidence": 0.1436123102903366,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (2).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.22308845818042755,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (3).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.09776130318641663,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (4).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "predicted_class_index": 15,
+    "confidence": 0.3738255202770233,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (5).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.2529667317867279,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (6).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.32461345195770264,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (7).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Blueberry___healthy",
+    "predicted_class_index": 4,
+    "confidence": 0.4527296721935272,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Soyabean leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Soyabean leaf/Soyabean leaf (8).jpg",
+    "original_class": "Soyabean leaf",
+    "mapped_ground_truth_class": "Soybean___healthy",
+    "mapped_ground_truth_index": 24,
+    "predicted_class_name": "Soybean___healthy",
+    "predicted_class_index": 24,
+    "confidence": 0.21640825271606445,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Squash Powdery mildew leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Squash Powdery mildew leaf/Squash Powdery mildew leaf (1).jpg",
+    "original_class": "Squash Powdery mildew leaf",
+    "mapped_ground_truth_class": "Squash___Powdery_mildew",
+    "mapped_ground_truth_index": 25,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.22962932288646698,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Squash Powdery mildew leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Squash Powdery mildew leaf/Squash Powdery mildew leaf (2).jpg",
+    "original_class": "Squash Powdery mildew leaf",
+    "mapped_ground_truth_class": "Squash___Powdery_mildew",
+    "mapped_ground_truth_index": 25,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.6216577887535095,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Squash Powdery mildew leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Squash Powdery mildew leaf/Squash Powdery mildew leaf (3).jpg",
+    "original_class": "Squash Powdery mildew leaf",
+    "mapped_ground_truth_class": "Squash___Powdery_mildew",
+    "mapped_ground_truth_index": 25,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.26773306727409363,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Squash Powdery mildew leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Squash Powdery mildew leaf/Squash Powdery mildew leaf (4).jpg",
+    "original_class": "Squash Powdery mildew leaf",
+    "mapped_ground_truth_class": "Squash___Powdery_mildew",
+    "mapped_ground_truth_index": 25,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.20506887137889862,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Squash Powdery mildew leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Squash Powdery mildew leaf/Squash Powdery mildew leaf (5).jpg",
+    "original_class": "Squash Powdery mildew leaf",
+    "mapped_ground_truth_class": "Squash___Powdery_mildew",
+    "mapped_ground_truth_index": 25,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.3048376441001892,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Squash Powdery mildew leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Squash Powdery mildew leaf/Squash Powdery mildew leaf (6).jpg",
+    "original_class": "Squash Powdery mildew leaf",
+    "mapped_ground_truth_class": "Squash___Powdery_mildew",
+    "mapped_ground_truth_index": 25,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.32021570205688477,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (1).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Strawberry___healthy",
+    "predicted_class_index": 27,
+    "confidence": 0.2636106610298157,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (2).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.26315587759017944,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (3).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.3900297284126282,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (4).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Raspberry___healthy",
+    "predicted_class_index": 23,
+    "confidence": 0.26191607117652893,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (5).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.12765000760555267,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (6).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.21591980755329132,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (7).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.1667497307062149,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Strawberry leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Strawberry leaf/Strawberry leaf (8).jpg",
+    "original_class": "Strawberry leaf",
+    "mapped_ground_truth_class": "Strawberry___healthy",
+    "mapped_ground_truth_index": 27,
+    "predicted_class_name": "Grape___healthy",
+    "predicted_class_index": 14,
+    "confidence": 0.14764055609703064,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (1).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.2110157161951065,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (2).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.17485564947128296,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (3).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.4954718053340912,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (4).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Tomato___healthy",
+    "predicted_class_index": 37,
+    "confidence": 0.14067919552326202,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (5).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.29725152254104614,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (6).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.9532791972160339,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (7).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.2399924248456955,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (8).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.19570185244083405,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Early blight leaf (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Early blight leaf/Tomato Early blight leaf (9).jpg",
+    "original_class": "Tomato Early blight leaf",
+    "mapped_ground_truth_class": "Tomato___Early_blight",
+    "mapped_ground_truth_index": 29,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.29035863280296326,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (1).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.400631308555603,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (2).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.19695352017879486,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (3).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.21175126731395721,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (4).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.14761927723884583,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (5).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.11650869995355606,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (6).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.4344955384731293,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (7).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "predicted_class_index": 35,
+    "confidence": 0.37894293665885925,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf/Tomato leaf (8).jpg",
+    "original_class": "Tomato leaf",
+    "mapped_ground_truth_class": "Tomato___healthy",
+    "mapped_ground_truth_index": 37,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.1457062065601349,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (1).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "predicted_class_index": 35,
+    "confidence": 0.17011649906635284,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (2).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.344876766204834,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (3).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Pepper,_bell___Bacterial_spot",
+    "predicted_class_index": 18,
+    "confidence": 0.5168912410736084,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (4).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Pepper,_bell___Bacterial_spot",
+    "predicted_class_index": 18,
+    "confidence": 0.6735692024230957,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (5).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Corn_(maize)___Common_rust_",
+    "predicted_class_index": 8,
+    "confidence": 0.3354530334472656,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (6).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.605550229549408,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (7).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.27624183893203735,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (8).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.3619529902935028,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf bacterial spot (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (9).jpg",
+    "original_class": "Tomato leaf bacterial spot",
+    "mapped_ground_truth_class": "Tomato___Bacterial_spot",
+    "mapped_ground_truth_index": 28,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.6159605383872986,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": true,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": false,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (1).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.5784523487091064,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (10).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.21467649936676025,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (2).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.36258184909820557,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (3).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.4915609657764435,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (4).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.2886394262313843,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (5).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.3400455415248871,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (6).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.5178275108337402,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (7).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.2345459759235382,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (8).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.20152094960212708,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf late blight (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf late blight/Tomato leaf late blight (9).jpg",
+    "original_class": "Tomato leaf late blight",
+    "mapped_ground_truth_class": "Tomato___Late_blight",
+    "mapped_ground_truth_index": 30,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.19876831769943237,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (1).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "predicted_class_index": 35,
+    "confidence": 0.10335481911897659,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (10).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "predicted_class_index": 35,
+    "confidence": 0.22372613847255707,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (2).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.2557583749294281,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (3).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.14719104766845703,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (4).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.3582253158092499,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (5).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.2645491063594818,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (6).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.17788788676261902,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (7).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "predicted_class_index": 35,
+    "confidence": 0.21698789298534393,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (8).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.5217564702033997,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf mosaic virus (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf mosaic virus/Tomato leaf mosaic virus (9).jpg",
+    "original_class": "Tomato leaf mosaic virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_mosaic_virus",
+    "mapped_ground_truth_index": 36,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.2662760019302368,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf yellow virus (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf yellow virus/Tomato leaf yellow virus (1).jpg",
+    "original_class": "Tomato leaf yellow virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "mapped_ground_truth_index": 35,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.16604653000831604,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf yellow virus (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf yellow virus/Tomato leaf yellow virus (2).jpg",
+    "original_class": "Tomato leaf yellow virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "mapped_ground_truth_index": 35,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.1570107638835907,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf yellow virus (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf yellow virus/Tomato leaf yellow virus (3).jpg",
+    "original_class": "Tomato leaf yellow virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "mapped_ground_truth_index": 35,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.11974754929542542,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf yellow virus (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf yellow virus/Tomato leaf yellow virus (4).jpg",
+    "original_class": "Tomato leaf yellow virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "mapped_ground_truth_index": 35,
+    "predicted_class_name": "Squash___Powdery_mildew",
+    "predicted_class_index": 25,
+    "confidence": 0.31926530599594116,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf yellow virus (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf yellow virus/Tomato leaf yellow virus (5).jpg",
+    "original_class": "Tomato leaf yellow virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "mapped_ground_truth_index": 35,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.15828609466552734,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato leaf yellow virus (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf yellow virus/Tomato leaf yellow virus (6).jpg",
+    "original_class": "Tomato leaf yellow virus",
+    "mapped_ground_truth_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "mapped_ground_truth_index": 35,
+    "predicted_class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "predicted_class_index": 35,
+    "confidence": 0.3430328071117401,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": false
+    }
+  },
+  {
+    "image_id": "Tomato mold leaf (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato mold leaf/Tomato mold leaf (1).jpg",
+    "original_class": "Tomato mold leaf",
+    "mapped_ground_truth_class": "Tomato___Leaf_Mold",
+    "mapped_ground_truth_index": 31,
+    "predicted_class_name": "Tomato___Late_blight",
+    "predicted_class_index": 30,
+    "confidence": 0.13354618847370148,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato mold leaf (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato mold leaf/Tomato mold leaf (2).jpg",
+    "original_class": "Tomato mold leaf",
+    "mapped_ground_truth_class": "Tomato___Leaf_Mold",
+    "mapped_ground_truth_index": 31,
+    "predicted_class_name": "Tomato___Leaf_Mold",
+    "predicted_class_index": 31,
+    "confidence": 0.13804490864276886,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato mold leaf (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato mold leaf/Tomato mold leaf (3).jpg",
+    "original_class": "Tomato mold leaf",
+    "mapped_ground_truth_class": "Tomato___Leaf_Mold",
+    "mapped_ground_truth_index": 31,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.1374582201242447,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato mold leaf (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato mold leaf/Tomato mold leaf (4).jpg",
+    "original_class": "Tomato mold leaf",
+    "mapped_ground_truth_class": "Tomato___Leaf_Mold",
+    "mapped_ground_truth_index": 31,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.29786568880081177,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato mold leaf (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato mold leaf/Tomato mold leaf (5).jpg",
+    "original_class": "Tomato mold leaf",
+    "mapped_ground_truth_class": "Tomato___Leaf_Mold",
+    "mapped_ground_truth_index": 31,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.2914701998233795,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato mold leaf (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato mold leaf/Tomato mold leaf (6).jpg",
+    "original_class": "Tomato mold leaf",
+    "mapped_ground_truth_class": "Tomato___Leaf_Mold",
+    "mapped_ground_truth_index": 31,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.24638597667217255,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (1).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (1).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Bacterial_spot",
+    "predicted_class_index": 28,
+    "confidence": 0.10243050009012222,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (10).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (10).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.17351330816745758,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (11).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (11).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.2205761969089508,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (2).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (2).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.27823251485824585,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (3).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (3).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Early_blight",
+    "predicted_class_index": 29,
+    "confidence": 0.3627818524837494,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (4).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (4).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.2922739088535309,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (5).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (5).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.3209597170352936,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (6).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (6).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.5770682692527771,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (7).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (7).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Tomato___Septoria_leaf_spot",
+    "predicted_class_index": 32,
+    "confidence": 0.2574692368507385,
+    "correct": true,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (8).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (8).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Strawberry___Leaf_scorch",
+    "predicted_class_index": 26,
+    "confidence": 0.43424689769744873,
+    "correct": false,
+    "predicted_is_mapped_class": false,
+    "is_duplicate_with_train": false,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": true
+    }
+  },
+  {
+    "image_id": "Tomato Septoria leaf spot (9).jpg",
+    "relative_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (9).jpg",
+    "original_class": "Tomato Septoria leaf spot",
+    "mapped_ground_truth_class": "Tomato___Septoria_leaf_spot",
+    "mapped_ground_truth_index": 32,
+    "predicted_class_name": "Grape___Black_rot",
+    "predicted_class_index": 11,
+    "confidence": 0.1903144121170044,
+    "correct": false,
+    "predicted_is_mapped_class": true,
+    "is_duplicate_with_train": true,
+    "has_label_conflict": false,
+    "variants": {
+      "full_mapped": true,
+      "conflict_excluded": true,
+      "fully_deduplicated": false
+    }
+  }
+]
