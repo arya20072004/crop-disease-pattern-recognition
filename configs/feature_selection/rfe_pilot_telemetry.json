@@ -1,0 +1,45 @@
+{
+  "pilot_completed": false,
+  "t1_sec": 992.081,
+  "t2_sec": null,
+  "total_pilot_time_sec": 1008.109,
+  "estimated_seconds_per_feature": null,
+  "projected_full_rfe_sec": null,
+  "illustrative_unreduced_rfe_sec": 19841.62,
+  "within_900s_limit": false,
+  "recommendation": "ABORT_OR_REVISE_RFE",
+  "steps": [
+    {
+      "iteration": 1,
+      "initial_dimension": 8196,
+      "pruned_dimension": 1025,
+      "active_dimension_after_step": 7171,
+      "step_duration_sec": 992.081,
+      "converged": true,
+      "n_iter_max": 133,
+      "convergence_warning_count": 0,
+      "pre_fit_rss_mb": 447.43,
+      "post_fit_rss_mb": 736.86,
+      "available_memory_mb": 3499.45
+    }
+  ],
+  "system_telemetry": {
+    "cpu_cores_logical": 16,
+    "estimator_n_jobs": 1,
+    "estimator_config": {
+      "loss": "hinge",
+      "penalty": "l2",
+      "alpha": 1.075384e-05,
+      "max_iter": 250,
+      "tol": 0.001,
+      "random_state": 42,
+      "n_jobs": 1
+    },
+    "total_ram_mb": 16091.87,
+    "available_ram_mb": 3500.01,
+    "rss_sampling_method": "process_working_set_pre_post_fit",
+    "rss_sampling_limitation": "Sampled at discrete iteration boundaries; intra-iteration transient spikes are not captured."
+  },
+  "methodological_notes": "Halted prior to starting Iteration 2 due to 900-second pre-Iteration-2 launch cutoff breach. No automatic retry or continuation is permitted.",
+  "halt_reason": "Launch cutoff breach: elapsed time (1008.11s) reached or exceeded 900.0s pre-Iteration-2 launch cutoff."
+}

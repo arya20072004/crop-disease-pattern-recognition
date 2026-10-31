@@ -1,0 +1,74 @@
+{
+  "experiment_id": "selectkbest_anova_k2048_linear_svm",
+  "execution_status": "completed",
+  "resume_action": "executed",
+  "start_timestamp": "2026-10-31T14:16:10Z",
+  "end_timestamp": "2026-10-31T14:17:33Z",
+  "attempt_number": 1,
+  "attempt_history": [],
+  "input_cache_sha256": "4097ed041394bdf1458672b6709a596c428f13637a6ccaee835fa63b57191a7c",
+  "selector_ranking_sha256": "298f4110cd7fd3951374653319d6381ca3ace1f53b750bb2c7ac36ea8b63ed45",
+  "selected_feature_indices_sha256": "ea68e02d4fd8bc2abb3381ae92b473c5af6516bf6152e7a005b27ef8b3c9fb46",
+  "selector_configuration": {
+    "algorithm": "SelectKBest_ANOVA",
+    "k": 2048
+  },
+  "evaluator_configuration": {
+    "classifier": "Linear_SVM",
+    "loss": "hinge",
+    "penalty": "l2",
+    "alpha": 1.075384449940854e-05,
+    "max_iter": 1000,
+    "tol": 0.001,
+    "n_jobs": -1,
+    "random_state": 42
+  },
+  "elapsed_seconds": 82.52792849999969,
+  "pre_fit_available_mb": 2444.37,
+  "pre_fit_process_rss_mb": 157.43,
+  "post_fit_available_mb": 2391.68,
+  "post_fit_process_rss_mb": 231.96,
+  "peak_process_rss_mb": null,
+  "minimum_available_memory_mb": null,
+  "halt_reason": null,
+  "artifact_paths": {
+    "metrics_json": "C:\\Users\\aryab\\Coding\\crop-disease-pattern-recognition\\configs\\feature_selection\\records\\selectkbest_anova_k2048_linear_svm_metrics.json",
+    "telemetry_json": "C:\\Users\\aryab\\Coding\\crop-disease-pattern-recognition\\configs\\feature_selection\\records\\selectkbest_anova_k2048_linear_svm_telemetry.json"
+  },
+  "metrics_record": {
+    "metadata": {
+      "experiment_id": "selectkbest_anova_k2048_linear_svm",
+      "selector_algorithm": "SelectKBest_ANOVA",
+      "classifier_name": "Linear_SVM",
+      "original_feature_count": 8196,
+      "selected_feature_count": 2048,
+      "feature_retention_ratio": 0.24987798926305516
+    },
+    "classification_metrics": {
+      "val_accuracy": 0.6976430149766757,
+      "val_macro_precision": 0.633772808812744,
+      "val_macro_recall": 0.6818675539554296,
+      "val_macro_f1": 0.6506652569902247,
+      "val_weighted_f1": 0.7045983686690128
+    },
+    "timing_measurements": {
+      "selector_fit_time_sec": 1.1643650000041816,
+      "model_train_time_sec": 72.93005899999844,
+      "total_training_pipeline_sec": 74.09442400000262
+    },
+    "inference_measurements": {
+      "single_sample_inference_ms": 0.45385200035525486,
+      "batch32_throughput_img_per_sec": 24767.801862581906
+    },
+    "storage_measurements": {
+      "selector_storage_bytes": 164451,
+      "model_storage_bytes": 313166,
+      "total_storage_bytes": 477617
+    },
+    "convergence_diagnostics": {
+      "converged": false,
+      "n_iter_max": 1000,
+      "convergence_warning_count": 0
+    }
+  }
+}

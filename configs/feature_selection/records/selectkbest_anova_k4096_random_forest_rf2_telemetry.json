@@ -1,0 +1,74 @@
+{
+  "experiment_id": "selectkbest_anova_k4096_random_forest_rf2",
+  "execution_status": "completed",
+  "resume_action": "executed",
+  "start_timestamp": "2026-10-31T14:05:26Z",
+  "end_timestamp": "2026-10-31T14:08:33Z",
+  "attempt_number": 1,
+  "attempt_history": [],
+  "input_cache_sha256": "4097ed041394bdf1458672b6709a596c428f13637a6ccaee835fa63b57191a7c",
+  "selector_ranking_sha256": "298f4110cd7fd3951374653319d6381ca3ace1f53b750bb2c7ac36ea8b63ed45",
+  "selected_feature_indices_sha256": "7c761240f4e68003e00e37266e809396938f6908ff73844343e576104391aea9",
+  "selector_configuration": {
+    "algorithm": "SelectKBest_ANOVA",
+    "k": 4096
+  },
+  "evaluator_configuration": {
+    "classifier": "Random_Forest_RF2",
+    "n_estimators": 300,
+    "max_depth": 30,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt",
+    "random_state": 42,
+    "n_jobs": 4
+  },
+  "elapsed_seconds": 187.74772349999694,
+  "pre_fit_available_mb": 3092.29,
+  "pre_fit_process_rss_mb": 303.43,
+  "post_fit_available_mb": 2606.3,
+  "post_fit_process_rss_mb": 811.65,
+  "peak_process_rss_mb": null,
+  "minimum_available_memory_mb": null,
+  "halt_reason": null,
+  "artifact_paths": {
+    "metrics_json": "C:\\Users\\aryab\\Coding\\crop-disease-pattern-recognition\\configs\\feature_selection\\records\\selectkbest_anova_k4096_random_forest_rf2_metrics.json",
+    "telemetry_json": "C:\\Users\\aryab\\Coding\\crop-disease-pattern-recognition\\configs\\feature_selection\\records\\selectkbest_anova_k4096_random_forest_rf2_telemetry.json"
+  },
+  "metrics_record": {
+    "metadata": {
+      "experiment_id": "selectkbest_anova_k4096_random_forest_rf2",
+      "selector_algorithm": "SelectKBest_ANOVA",
+      "classifier_name": "Random_Forest_RF2",
+      "original_feature_count": 8196,
+      "selected_feature_count": 4096,
+      "feature_retention_ratio": 0.4997559785261103
+    },
+    "classification_metrics": {
+      "val_accuracy": 0.8249447581635159,
+      "val_macro_precision": 0.7732463145335914,
+      "val_macro_recall": 0.8202560441848172,
+      "val_macro_f1": 0.7814166538052953,
+      "val_weighted_f1": 0.8218971119976827
+    },
+    "timing_measurements": {
+      "selector_fit_time_sec": 0.0,
+      "model_train_time_sec": 177.9211439999999,
+      "total_training_pipeline_sec": 177.9211439999999
+    },
+    "inference_measurements": {
+      "single_sample_inference_ms": 71.05292999956873,
+      "batch32_throughput_img_per_sec": 402.8473502500405
+    },
+    "storage_measurements": {
+      "selector_storage_bytes": 164451,
+      "model_storage_bytes": 501458697,
+      "total_storage_bytes": 501623148
+    },
+    "convergence_diagnostics": {
+      "converged": true,
+      "n_iter_max": 30,
+      "convergence_warning_count": 0
+    }
+  }
+}

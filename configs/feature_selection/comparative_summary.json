@@ -1,0 +1,110 @@
+[
+  {
+    "metadata": {
+      "experiment_id": "selectkbest_anova_k4096_linear_svm",
+      "selector_algorithm": "SelectKBest_ANOVA",
+      "classifier_name": "Linear_SVM",
+      "original_feature_count": 8196,
+      "selected_feature_count": 4096,
+      "feature_retention_ratio": 0.4997559785261103
+    },
+    "classification_metrics": {
+      "val_accuracy": 0.6771421556592192,
+      "val_macro_precision": 0.614035170959044,
+      "val_macro_recall": 0.668908455074613,
+      "val_macro_f1": 0.6324444726308627,
+      "val_weighted_f1": 0.6839584824615753
+    },
+    "timing_measurements": {
+      "selector_fit_time_sec": 1.0629556999992928,
+      "model_train_time_sec": 69.26415149999957,
+      "total_training_pipeline_sec": 70.32710719999886
+    },
+    "inference_measurements": {
+      "single_sample_inference_ms": 0.17790000056265853,
+      "batch32_throughput_img_per_sec": 63500.25297940148
+    },
+    "storage_measurements": {
+      "selector_storage_bytes": 164451,
+      "model_storage_bytes": 624462,
+      "total_storage_bytes": 788913
+    },
+    "convergence_diagnostics": {
+      "converged": true,
+      "n_iter_max": 298,
+      "convergence_warning_count": 0
+    }
+  },
+  {
+    "metadata": {
+      "experiment_id": "selectkbest_anova_k4096_random_forest_rf2",
+      "selector_algorithm": "SelectKBest_ANOVA",
+      "classifier_name": "Random_Forest_RF2",
+      "original_feature_count": 8196,
+      "selected_feature_count": 4096,
+      "feature_retention_ratio": 0.4997559785261103
+    },
+    "classification_metrics": {
+      "val_accuracy": 0.8249447581635159,
+      "val_macro_precision": 0.7732463145335914,
+      "val_macro_recall": 0.8202560441848172,
+      "val_macro_f1": 0.7814166538052953,
+      "val_weighted_f1": 0.8218971119976827
+    },
+    "timing_measurements": {
+      "selector_fit_time_sec": 0.0,
+      "model_train_time_sec": 177.9211439999999,
+      "total_training_pipeline_sec": 177.9211439999999
+    },
+    "inference_measurements": {
+      "single_sample_inference_ms": 71.05292999956873,
+      "batch32_throughput_img_per_sec": 402.8473502500405
+    },
+    "storage_measurements": {
+      "selector_storage_bytes": 164451,
+      "model_storage_bytes": 501458697,
+      "total_storage_bytes": 501623148
+    },
+    "convergence_diagnostics": {
+      "converged": true,
+      "n_iter_max": 30,
+      "convergence_warning_count": 0
+    }
+  },
+  {
+    "metadata": {
+      "experiment_id": "selectkbest_anova_k2048_linear_svm",
+      "selector_algorithm": "SelectKBest_ANOVA",
+      "classifier_name": "Linear_SVM",
+      "original_feature_count": 8196,
+      "selected_feature_count": 2048,
+      "feature_retention_ratio": 0.24987798926305516
+    },
+    "classification_metrics": {
+      "val_accuracy": 0.6976430149766757,
+      "val_macro_precision": 0.633772808812744,
+      "val_macro_recall": 0.6818675539554296,
+      "val_macro_f1": 0.6506652569902247,
+      "val_weighted_f1": 0.7045983686690128
+    },
+    "timing_measurements": {
+      "selector_fit_time_sec": 1.1643650000041816,
+      "model_train_time_sec": 72.93005899999844,
+      "total_training_pipeline_sec": 74.09442400000262
+    },
+    "inference_measurements": {
+      "single_sample_inference_ms": 0.45385200035525486,
+      "batch32_throughput_img_per_sec": 24767.801862581906
+    },
+    "storage_measurements": {
+      "selector_storage_bytes": 164451,
+      "model_storage_bytes": 313166,
+      "total_storage_bytes": 477617
+    },
+    "convergence_diagnostics": {
+      "converged": false,
+      "n_iter_max": 1000,
+      "convergence_warning_count": 0
+    }
+  }
+]

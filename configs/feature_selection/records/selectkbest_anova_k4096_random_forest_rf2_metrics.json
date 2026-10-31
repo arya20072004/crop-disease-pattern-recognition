@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "experiment_id": "selectkbest_anova_k4096_random_forest_rf2",
+    "selector_algorithm": "SelectKBest_ANOVA",
+    "classifier_name": "Random_Forest_RF2",
+    "original_feature_count": 8196,
+    "selected_feature_count": 4096,
+    "feature_retention_ratio": 0.4997559785261103
+  },
+  "classification_metrics": {
+    "val_accuracy": 0.8249447581635159,
+    "val_macro_precision": 0.7732463145335914,
+    "val_macro_recall": 0.8202560441848172,
+    "val_macro_f1": 0.7814166538052953,
+    "val_weighted_f1": 0.8218971119976827
+  },
+  "timing_measurements": {
+    "selector_fit_time_sec": 0.0,
+    "model_train_time_sec": 177.9211439999999,
+    "total_training_pipeline_sec": 177.9211439999999
+  },
+  "inference_measurements": {
+    "single_sample_inference_ms": 71.05292999956873,
+    "batch32_throughput_img_per_sec": 402.8473502500405
+  },
+  "storage_measurements": {
+    "selector_storage_bytes": 164451,
+    "model_storage_bytes": 501458697,
+    "total_storage_bytes": 501623148
+  },
+  "convergence_diagnostics": {
+    "converged": true,
+    "n_iter_max": 30,
+    "convergence_warning_count": 0
+  }
+}
