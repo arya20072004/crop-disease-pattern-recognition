@@ -1,0 +1,128 @@
+{
+  "duplicate_count": 11,
+  "conflict_count": 8,
+  "consistent_count": 3,
+  "duplicates": [
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Blueberry leaf/Blueberry leaf (1).jpg",
+      "test_filename": "Blueberry leaf (1).jpg",
+      "test_class": "Blueberry leaf",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Blueberry leaf/Blueberry leaf (49).jpg",
+      "train_filename": "Blueberry leaf (49).jpg",
+      "train_class": "Blueberry leaf",
+      "md5": "ba5dcc6822fe97d13578703e2988b2ce",
+      "label_consistent": true,
+      "has_label_conflict": false
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn Gray leaf spot/Corn Gray leaf spot (1).jpg",
+      "test_filename": "Corn Gray leaf spot (1).jpg",
+      "test_class": "Corn Gray leaf spot",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Corn leaf blight/Corn leaf blight (121).jpg",
+      "train_filename": "Corn leaf blight (121).jpg",
+      "train_class": "Corn leaf blight",
+      "md5": "43ba8a87d9053032195c7c59bc01f1fc",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (10).jpg",
+      "test_filename": "Corn leaf blight (10).jpg",
+      "test_class": "Corn leaf blight",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Corn Gray leaf spot/Corn Gray leaf spot (20).jpg",
+      "train_filename": "Corn Gray leaf spot (20).jpg",
+      "train_class": "Corn Gray leaf spot",
+      "md5": "a5c506de47aa579eb224f2c2c398fb7f",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Corn leaf blight/Corn leaf blight (7).jpg",
+      "test_filename": "Corn leaf blight (7).jpg",
+      "test_class": "Corn leaf blight",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Corn Gray leaf spot/Corn Gray leaf spot (12).jpg",
+      "train_filename": "Corn Gray leaf spot (12).jpg",
+      "train_class": "Corn Gray leaf spot",
+      "md5": "8edd2518767e8b140ffe3c6f3d37609d",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf early blight/Potato leaf early blight (2).jpg",
+      "test_filename": "Potato leaf early blight (2).jpg",
+      "test_class": "Potato leaf early blight",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Potato leaf late blight/Potato leaf late blight (19).jpg",
+      "train_filename": "Potato leaf late blight (19).jpg",
+      "train_class": "Potato leaf late blight",
+      "md5": "ce0ad99cdbbf5dedccd96061c88a6d99",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (1).jpg",
+      "test_filename": "Potato leaf late blight (1).jpg",
+      "test_class": "Potato leaf late blight",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Potato leaf early blight/Potato leaf early blight (13).jpg",
+      "train_filename": "Potato leaf early blight (13).jpg",
+      "train_class": "Potato leaf early blight",
+      "md5": "f163947415e9d4e42bdc23720bec8a49",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (4).jpg",
+      "test_filename": "Potato leaf late blight (4).jpg",
+      "test_class": "Potato leaf late blight",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Potato leaf early blight/Potato leaf early blight (24).jpg",
+      "train_filename": "Potato leaf early blight (24).jpg",
+      "train_class": "Potato leaf early blight",
+      "md5": "e4aff68ead58ba22a411c93db3a630af",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Potato leaf late blight/Potato leaf late blight (6).jpg",
+      "test_filename": "Potato leaf late blight (6).jpg",
+      "test_class": "Potato leaf late blight",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Potato leaf early blight/Potato leaf early blight (70).jpg",
+      "train_filename": "Potato leaf early blight (70).jpg",
+      "train_class": "Potato leaf early blight",
+      "md5": "bd890a743a88bd8a8a3046bc74a3eda3",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf bacterial spot/Tomato leaf bacterial spot (9).jpg",
+      "test_filename": "Tomato leaf bacterial spot (9).jpg",
+      "test_class": "Tomato leaf bacterial spot",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Tomato Septoria leaf spot/Tomato Septoria leaf spot (109).jpg",
+      "train_filename": "Tomato Septoria leaf spot (109).jpg",
+      "train_class": "Tomato Septoria leaf spot",
+      "md5": "1fc7b6d3ecba2fe90bbf8f6078fd7e45",
+      "label_consistent": false,
+      "has_label_conflict": true
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato leaf yellow virus/Tomato leaf yellow virus (6).jpg",
+      "test_filename": "Tomato leaf yellow virus (6).jpg",
+      "test_class": "Tomato leaf yellow virus",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Tomato leaf yellow virus/Tomato leaf yellow virus (63).jpg",
+      "train_filename": "Tomato leaf yellow virus (63).jpg",
+      "train_class": "Tomato leaf yellow virus",
+      "md5": "5b4163adb2bd89b453328e8063b16f37",
+      "label_consistent": true,
+      "has_label_conflict": false
+    },
+    {
+      "test_path": "archive/increment_1_cnn/PlantDoc-Dataset/test/Tomato Septoria leaf spot/Tomato Septoria leaf spot (9).jpg",
+      "test_filename": "Tomato Septoria leaf spot (9).jpg",
+      "test_class": "Tomato Septoria leaf spot",
+      "train_path": "archive/increment_1_cnn/PlantDoc-Dataset/train/Tomato Septoria leaf spot/Tomato Septoria leaf spot (48).jpg",
+      "train_filename": "Tomato Septoria leaf spot (48).jpg",
+      "train_class": "Tomato Septoria leaf spot",
+      "md5": "3311a7162f523ef7dc4f5b02033d6ecf",
+      "label_consistent": true,
+      "has_label_conflict": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "protocol": "CCA 1 Pattern Recognition Evaluation Contract",
+  "random_seed": 42,
+  "plantvillage": {
+    "total_images": 54305,
+    "classes": 38,
+    "splits": {
+      "train": 38013,
+      "val": 8146,
+      "test": 8146
+    }
+  },
+  "plantdoc_test": {
+    "total_images": 236,
+    "mapped_images": 219,
+    "mapped_categories": 25,
+    "unmapped_images": 17,
+    "unmapped_categories": 2,
+    "duplicate_pairs_with_train": 11,
+    "conflicting_duplicates": 8
+  }
+}
